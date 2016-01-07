@@ -3,3 +3,9 @@
 *.opendb
 *.exp
 *.ipch
+*.log
+*.res
+*.idb
+*.rc
+*.tlog
+*.lastbuildstate
